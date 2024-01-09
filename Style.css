@@ -1,0 +1,161 @@
+body{
+background-image: url("img/b_body.jpg");
+}
+header{
+
+    margin-left: 250px;
+}
+.menu{
+    margin-left: 110px;
+}
+.logo{
+    margin-left: 70px;
+}
+.products{
+margin-top: -710px;
+    margin-left: 20px;
+}
+.slideL{
+    margin-top: 600px;
+}
+.aa{
+    margin-left: 250px;
+}
+.about {
+    margin-left: 290px;
+    margin-top: 100px;
+}
+.vision{
+    margin-left: 570px;
+    margin-top: -335px;
+}
+.news{
+    margin-left: 850px;
+    margin-top: -250px;
+}
+.pp{
+    color: green;
+    text-decoration: underline;
+}
+.tiv{
+    margin-top: 15px;
+}
+.tv{
+    margin-top: -24px;
+   margin-left: 20px;
+}
+.content{
+    margin-left: 280px;
+}
+.menu2{
+    margin-top: 10px;
+    margin-left: 290px;
+    p{
+        color: darkkhaki;
+    }
+}
+.aaa{
+    margin: 5px;
+}
+.icons{
+    margin-left: 900px;
+    margin-top: -70px;
+}
+.aboutPhoto{
+    margin-left: -265.5px;
+}
+.aboutp{
+    margin-left: 300px;
+    margin-top: 60px;
+}
+.aboutMe{
+    margin-left: 620px;
+    margin-top: -270px;
+}
+.education{
+    margin-top: 70px;
+    margin-left: 300px;
+}
+.Design{
+    margin-left: 700px;
+    margin-top: -270px;
+}
+.Fi{
+    margin-left: 300px;
+    margin-top: -150px;
+}
+.PMenu{
+    margin-left: 320px;
+    margin-top: 60px;
+}
+.bubble{
+    margin-top: 200px;
+}
+.ArtGal{
+    margin-left: 330px;
+    margin-top: 20px;
+}
+.GalleryImg{
+    margin-top: -325px;
+    margin-left: 650px;
+}
+.ej{
+    margin-top: -20px;
+    margin-left: 440px;
+}
+.services{
+    margin-top: 50px;
+    margin-left: 320px;
+}
+.html{
+    margin-top: -400px;
+    margin-left: 530px;
+}
+.web{
+    margin-top: 50px;
+    margin-left: 315px;
+}
+.branding{
+    margin-top: -237px;
+    margin-left: 650px;
+}
+.printD{
+    margin-left: 1010px;
+    margin-top: -237px;
+}
+.Phone{
+    font-size: 35px;
+    color: green;
+}
+.number{
+    font-size: 35px;
+    margin-top: -70px;
+    margin-left: 105px;
+    color: darkorange;
+}
+.contactMe{
+    margin-top: 50px;
+    margin-left: 317px;
+}
+.imgContactMe{
+    margin-left: 550px;
+    margin-top: -250px;
+}
+.message{
+    width:835px;
+    height:100px;
+    margin-top: 10px;
+    margin-left: -2px;
+    background:none;
+}
+.input{
+    background: none;
+    width: 270px;
+}
+.dropMe{
+    margin-left: 310px;
+}
+.send{
+    margin-top: 10px;
+    margin-left: 1000px;
+}
